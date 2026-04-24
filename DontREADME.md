@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aadaywa
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning Odin
+- 🌱 I’m currently learning Odin and C
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: the sun is orange
 
